@@ -2,13 +2,6 @@
 ### Importing libraries ###
 # =============================================================================
 
-# import matplotlib.pyplot as plt
-# import pandas as pd
-# import numpy as np
-# from sklearn.preprocessing import StandardScaler
-# from sklearn.model_selection import train_test_split
-# from sklearn.datasets import fetch_california_housing
-# from pathlib import Path
 import json
 
 from bayes_opt import BayesianOptimization
