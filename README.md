@@ -19,7 +19,7 @@ The `Report` directory contains the final report for the project.
 
 The `To_Test` directory contains the necessary files to duplicate the models using the pickle files. It includes the following files:
 
-- `MAGIC04_1V5.ipynb`: This Jupyter notebook contains the code to test the logistic regression models using the pickle files.
+- `MAGIC04_1V5.ipynb`: This Jupyter notebook contains the code to test the logistic regression models using the pickle files and magic04 dataset.
 - `svc.py`: This Python script contains the code to test the SVC models using the pickle files.
 
 ## Pickles
