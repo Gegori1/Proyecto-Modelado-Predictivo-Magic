@@ -33,9 +33,3 @@ The `Optimizacion_hiperparameters` directory contains the code to optimize the h
 ## MAGIC04.data
 
 The `MAGIC04.data` file contains the dataset. Its columns can be obtained from MAGIC04.names
-
-## MAGIC04.ipynb
-
-The `MAGIC04.ipynb` Jupyter notebook contains a first analysis and modeling of the dataset.
-
-Please refer to the respective directories and files for more details and instructions.
