@@ -2,12 +2,18 @@
 
 This repository contains the code for the analysis and modeling of the magic04 dataset.
 
-## Model Variants
+## Model Types
 
-There are two main model variants for the magic04 dataset. The first one uses linear models and the second one uses Support Vector Classifier (SVC) models:
+There are two main types of models available for the magic04 dataset:
 
-1. `linear-models`: This variant is dedicated to the usage of linear models for the analysis and modeling of the magic04 dataset.
-2. `svc-models`: This variant focuses on the usage of Support Vector Classifier (SVC) models for the analysis and modeling of the magic04 dataset.
+1. **Linear Models**: This type of model focuses on using linear regression techniques for the analysis and modeling of the magic04 dataset.
+2. **SVC Models**: This type of model utilizes Support Vector Classifier (SVC) techniques for the analysis and modeling of the magic04 dataset.
+
+Both types of models were trained using either standarization or multiple transformation techniques. The models were then saved as pickle files for later use. 
+
+## Report
+
+The `Report` directory contains the final report for the project.
 
 ## To_Test
 
